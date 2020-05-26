@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBean.WebApi", "RedBean.WebApi\RedBean.WebApi.csproj", "{15AF1F92-B1A8-43B2-8A58-0855D5F36791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBean.Model", "RedBean.Model\RedBean.Model.csproj", "{B3401ADB-299A-43B5-AA2D-5CD6224ED641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBean.BLL", "RedBean.BLL\RedBean.BLL.csproj", "{8E035F6D-FBF5-49E8-9A1A-A0929F3E2E13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBean.DAL", "RedBean.DAL\RedBean.DAL.csproj", "{3CDA9049-3C4C-4293-A483-355C008E3FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBean.DTO", "RedBean.DTO\RedBean.DTO.csproj", "{5BD9DA79-76B6-455D-8D03-7C99A0374559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBean.Common", "RedBean.Common\RedBean.Common.csproj", "{DA19BF57-5347-47C6-AA52-0A87CB953CF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15AF1F92-B1A8-43B2-8A58-0855D5F36791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AF1F92-B1A8-43B2-8A58-0855D5F36791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AF1F92-B1A8-43B2-8A58-0855D5F36791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AF1F92-B1A8-43B2-8A58-0855D5F36791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3401ADB-299A-43B5-AA2D-5CD6224ED641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3401ADB-299A-43B5-AA2D-5CD6224ED641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3401ADB-299A-43B5-AA2D-5CD6224ED641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3401ADB-299A-43B5-AA2D-5CD6224ED641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E035F6D-FBF5-49E8-9A1A-A0929F3E2E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E035F6D-FBF5-49E8-9A1A-A0929F3E2E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E035F6D-FBF5-49E8-9A1A-A0929F3E2E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E035F6D-FBF5-49E8-9A1A-A0929F3E2E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CDA9049-3C4C-4293-A483-355C008E3FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDA9049-3C4C-4293-A483-355C008E3FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDA9049-3C4C-4293-A483-355C008E3FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDA9049-3C4C-4293-A483-355C008E3FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD9DA79-76B6-455D-8D03-7C99A0374559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD9DA79-76B6-455D-8D03-7C99A0374559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD9DA79-76B6-455D-8D03-7C99A0374559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD9DA79-76B6-455D-8D03-7C99A0374559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA19BF57-5347-47C6-AA52-0A87CB953CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA19BF57-5347-47C6-AA52-0A87CB953CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA19BF57-5347-47C6-AA52-0A87CB953CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA19BF57-5347-47C6-AA52-0A87CB953CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9A2AF10-9EDA-45EF-8DB7-6D9CF7B634E2}
+	EndGlobalSection
+EndGlobal
