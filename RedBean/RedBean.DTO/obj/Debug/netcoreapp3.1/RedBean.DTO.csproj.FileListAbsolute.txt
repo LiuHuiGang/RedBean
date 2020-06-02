@@ -1,0 +1,9 @@
+E:\红豆\RedBean\RedBean\RedBean.DTO\bin\Debug\netcoreapp3.1\RedBean.DTO.deps.json
+E:\红豆\RedBean\RedBean\RedBean.DTO\bin\Debug\netcoreapp3.1\RedBean.DTO.dll
+E:\红豆\RedBean\RedBean\RedBean.DTO\bin\Debug\netcoreapp3.1\RedBean.DTO.pdb
+E:\红豆\RedBean\RedBean\RedBean.DTO\obj\Debug\netcoreapp3.1\RedBean.DTO.AssemblyInfoInputs.cache
+E:\红豆\RedBean\RedBean\RedBean.DTO\obj\Debug\netcoreapp3.1\RedBean.DTO.AssemblyInfo.cs
+E:\红豆\RedBean\RedBean\RedBean.DTO\obj\Debug\netcoreapp3.1\RedBean.DTO.csproj.CoreCompileInputs.cache
+E:\红豆\RedBean\RedBean\RedBean.DTO\obj\Debug\netcoreapp3.1\RedBean.DTO.dll
+E:\红豆\RedBean\RedBean\RedBean.DTO\obj\Debug\netcoreapp3.1\RedBean.DTO.pdb
+E:\红豆\RedBean\RedBean\RedBean.DTO\obj\Debug\netcoreapp3.1\RedBean.DTO.csprojAssemblyReference.cache

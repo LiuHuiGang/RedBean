@@ -9,6 +9,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using RedBean.Model;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace RedBean.WebApi
 {
@@ -25,6 +28,10 @@ namespace RedBean.WebApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddDbContext<DataContext>(options =>
+            {
+                options.UseSqlServer(Configuration.GetConnectionString("connectionString"));
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -34,7 +41,7 @@ namespace RedBean.WebApi
             {
                 app.UseDeveloperExceptionPage();
             }
-
+           
             app.UseRouting();
 
             app.UseAuthorization();

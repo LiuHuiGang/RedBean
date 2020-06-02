@@ -9,4 +9,11 @@
     <Folder Include="Implement\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\RedBean.Common\RedBean.Common.csproj" />
+    <ProjectReference Include="..\RedBean.DAL\RedBean.DAL.csproj" />
+    <ProjectReference Include="..\RedBean.DTO\RedBean.DTO.csproj" />
+    <ProjectReference Include="..\RedBean.Model\RedBean.Model.csproj" />
+  </ItemGroup>
+
 </Project>
